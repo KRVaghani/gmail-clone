@@ -9,7 +9,7 @@ const Compose = () => {
             <AddIcon fontSize='large'/>
             <p>Compose</p>
         </Wrapper>
-    )
+    ) 
 }
 
 export default Compose
